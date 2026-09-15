@@ -1,6 +1,6 @@
 ## Arya Arun
 
-Second-year BEng Computer and Electronic Engineering at Loughborough University, graduating 2028.
+BEng Computer and Electronic Engineering at Loughborough University, graduating 2028.
 
 I work across embedded systems and machine learning.
 
